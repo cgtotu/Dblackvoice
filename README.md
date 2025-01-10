@@ -21,6 +21,7 @@
 
 - Windows 10 或更高版本
 - ffmpeg（用于视频处理）需要自行下载
+- https://ffmpeg.org/download.html
 
 ## 注意事项
 
