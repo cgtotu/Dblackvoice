@@ -1,0 +1,9 @@
+PyQt5>=5.15.0
+PyQtChart>=5.15.0
+mutagen>=1.45.1
+numpy>=1.19.0
+opencv-python>=4.5.0
+librosa>=0.8.0
+soundfile>=0.10.0
+moviepy>=1.0.3
+ffmpeg-python>=0.2.0 
